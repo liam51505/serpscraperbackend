@@ -1,0 +1,13 @@
+com/liamcashman/serpscrapper/dto/ResultDto.class
+com/liamcashman/serpscrapper/SerpScrapperApplication.class
+com/liamcashman/serpscrapper/dto/ClientDto.class
+com/liamcashman/serpscrapper/service/ScraperService.class
+com/liamcashman/serpscrapper/dto/KeywordDto.class
+com/liamcashman/serpscrapper/repository/DomainRepository.class
+com/liamcashman/serpscrapper/model/Result.class
+com/liamcashman/serpscrapper/dto/ScrapeRequest.class
+com/liamcashman/serpscrapper/repository/KeywordRepository.class
+com/liamcashman/serpscrapper/model/Domain.class
+com/liamcashman/serpscrapper/model/Keyword.class
+com/liamcashman/serpscrapper/repository/ResultRepository.class
+com/liamcashman/serpscrapper/controller/ResultController.class

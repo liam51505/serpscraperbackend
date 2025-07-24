@@ -1,0 +1,13 @@
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/SerpScrapperApplication.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/controller/ResultController.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/dto/ClientDto.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/dto/KeywordDto.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/dto/ResultDto.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/dto/ScrapeRequest.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/model/Domain.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/model/Keyword.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/model/Result.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/repository/DomainRepository.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/repository/KeywordRepository.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/repository/ResultRepository.java
+/Users/liamcashman/Desktop/SERP-Scrapper/src/main/java/com/liamcashman/serpscrapper/service/ScraperService.java
